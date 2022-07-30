@@ -17,7 +17,7 @@
 ##
 
 <div>
-  <a href="https://www.linkedin.com/in/alex-wesley-de-carvalho-alves/" target="_blank">
+  <a href="https://www.linkedin.com/in/alex-wesley-de-carvalho-alves-57aa62238/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
   </a>
   <a href="https://www.instagram.com/allex.wes/" target="_blank">
