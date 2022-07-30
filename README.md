@@ -1,8 +1,9 @@
 ### Olá! Eu sou o Alex Wesley 👋
 
-<div>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=AlexWesleyy&show_icons=true&theme=gotham" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexWesleyy&layout=compact&theme=gotham" />
+<div align="center">
+  <a href="https://github.com/AlexWesleyy">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexWesleyy&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexWesleyy&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ### Linguagens e ferramentas:
@@ -26,6 +27,7 @@
   <a href="mailto:allewss11@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
   </a>
-</div>
 
-![Snake animation](https://github.com/jordanferreiraa/jordanferreiraa/blob/output/github-contribution-grid-snake.svg)
+
+![Snake animation](https://github.com/AlexWesleyy/AlexWesleyy/blob/output/github-contribution-grid-snake.svg)
+</div>
