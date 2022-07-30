@@ -29,5 +29,5 @@
   </a>
 
 
-![Snake animation](https://github.com/AlexWesleyy/AlexWesleyy/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/AlexWesleyy/AlexWesleyy/blob/output/github-contribution-grid-snake.svg)
 </div>
